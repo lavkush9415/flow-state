@@ -23,7 +23,7 @@ const plans = [
   },
   {
     name: "Pro",
-    price: "12",
+    price: "15",
     description: "For professionals who want more",
     features: [
       "Everything in Starter",
